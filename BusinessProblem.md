@@ -4,10 +4,10 @@ A brand new *Taxi service* of fast electric cars within the city. The idea is to
 The problem is to find the most efficient places with the following criterias:
 
 1. Closest to the most popular and high density places where people would most often order a taxi service such as:
-  1.1. Restaurants
-  1.2. Hotels
-  1.3. Clubs (sport/night) etc
-  1.4. Hospitals
+   1.1.  Restaurants
+   1.2.  Hotels
+   1.3.  Clubs (sport/night) etc
+   1.4.  Hospitals
 2. Only within the Bishkek city
 3. Overall not more than 5 stations
 
