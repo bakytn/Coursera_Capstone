@@ -9,3 +9,7 @@ We are going to use Foursquare API to get 4 types of venues:
 
 Our goal is to use K-means clustering algorithms to find the perfect spots. 
 Those spots will be our desired efficient taxi station locations.
+
+# The format
+We are going to extract geo coordinates. Use geocoding to find cluster points using Euclidean distance algorithms.
+We we'll convert k-means points to geocoordinates for the final results.
