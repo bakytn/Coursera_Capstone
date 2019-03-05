@@ -23,3 +23,6 @@ Apparently the target audience are all people who are leaving those places (see 
 
 P.S: It's a capstone project so those spots aren't necessary have to be eligible or having enough physical space.
 The goal is to cluster those data and find those efficient spots
+
+# Conditions
+Smallest radius should be 5 km (3.1 miles) from each other to avoid having them too close to each other.
